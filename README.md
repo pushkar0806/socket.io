@@ -12,16 +12,15 @@
 ```bash
 1. node js >= 10
 ```
+2. socket.io Library
+```bash
+ npm i socket.io 
+```
+
 ## Installation
 
 ```bash
 npm install
-```
-
-
-2. socket.io Library
-```bash
- npm i socket.io 
 ```
 
 # Important packages used
