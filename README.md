@@ -30,3 +30,8 @@ npm install
 * socket.broadcast.emit -> sends event to every connected clients except himself
 * io.to.emit -> sends event to everybody in this room (configure the 'to')
 * socket.broadcast.to.emit -> sends event to all the clients in that specific room, limiting the user himself
+
+# Visit On Heroku At
+```bash
+https://socketio-chat-app-node.herokuapp.com/
+```
