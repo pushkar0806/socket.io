@@ -12,6 +12,12 @@
 ```bash
 1. node js >= 10
 ```
+## Installation
+
+```bash
+npm install
+```
+
 
 2. socket.io Library
 ```bash
